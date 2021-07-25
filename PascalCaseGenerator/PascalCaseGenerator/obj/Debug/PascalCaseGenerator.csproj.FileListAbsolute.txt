@@ -1,0 +1,13 @@
+C:\Users\bp-yun-kisoo\source\repos\PascalCaseGenerator\PascalCaseGenerator\bin\Debug\PascalCaseGenerator.exe.config
+C:\Users\bp-yun-kisoo\source\repos\PascalCaseGenerator\PascalCaseGenerator\bin\Debug\PascalCaseGenerator.exe
+C:\Users\bp-yun-kisoo\source\repos\PascalCaseGenerator\PascalCaseGenerator\bin\Debug\PascalCaseGenerator.pdb
+C:\Users\bp-yun-kisoo\source\repos\PascalCaseGenerator\PascalCaseGenerator\obj\Debug\PascalCaseGenerator.csproj.AssemblyReference.cache
+C:\Users\bp-yun-kisoo\source\repos\PascalCaseGenerator\PascalCaseGenerator\obj\Debug\PascalCaseGenerator.csproj.CoreCompileInputs.cache
+C:\Users\bp-yun-kisoo\source\repos\PascalCaseGenerator\PascalCaseGenerator\obj\Debug\PascalCaseGenerator.exe
+C:\Users\bp-yun-kisoo\source\repos\PascalCaseGenerator\PascalCaseGenerator\obj\Debug\PascalCaseGenerator.pdb
+C:\Users\yks57\Downloads\PascalCaseGenerator\PascalCaseGenerator\PascalCaseGenerator\bin\Debug\PascalCaseGenerator.exe.config
+C:\Users\yks57\Downloads\PascalCaseGenerator\PascalCaseGenerator\PascalCaseGenerator\bin\Debug\PascalCaseGenerator.exe
+C:\Users\yks57\Downloads\PascalCaseGenerator\PascalCaseGenerator\PascalCaseGenerator\bin\Debug\PascalCaseGenerator.pdb
+C:\Users\yks57\Downloads\PascalCaseGenerator\PascalCaseGenerator\PascalCaseGenerator\obj\Debug\PascalCaseGenerator.csproj.CoreCompileInputs.cache
+C:\Users\yks57\Downloads\PascalCaseGenerator\PascalCaseGenerator\PascalCaseGenerator\obj\Debug\PascalCaseGenerator.exe
+C:\Users\yks57\Downloads\PascalCaseGenerator\PascalCaseGenerator\PascalCaseGenerator\obj\Debug\PascalCaseGenerator.pdb
